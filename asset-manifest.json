@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Curriculum-vitae/static/css/main.dd83b175.css",
-    "main.js": "/Curriculum-vitae/static/js/main.b049d673.js",
-    "index.html": "/Curriculum-vitae/index.html",
-    "main.dd83b175.css.map": "/Curriculum-vitae/static/css/main.dd83b175.css.map",
-    "main.b049d673.js.map": "/Curriculum-vitae/static/js/main.b049d673.js.map"
+    "main.css": "/resumewebsites/static/css/main.dd83b175.css",
+    "main.js": "/resumewebsites/static/js/main.b049d673.js",
+    "index.html": "/resumewebsites/index.html",
+    "main.dd83b175.css.map": "/resumewebsites/static/css/main.dd83b175.css.map",
+    "main.b049d673.js.map": "/resumewebsites/static/js/main.b049d673.js.map"
   },
   "entrypoints": [
     "static/css/main.dd83b175.css",
